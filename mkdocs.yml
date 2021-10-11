@@ -1,0 +1,8 @@
+site_name: "demo-site-hem"
+site_description: "demo-site-hem"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
