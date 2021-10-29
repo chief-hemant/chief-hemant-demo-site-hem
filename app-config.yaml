@@ -36,7 +36,7 @@ integrations:
   jenkins:
     baseUrl: http://localhost:8080
     username: admin
-    apiKey: 11d93d9676a7e0a619abe418651a822bc7
+    apiKey: 
 
 proxy:
   #'/test':
