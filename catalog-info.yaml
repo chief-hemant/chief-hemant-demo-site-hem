@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: chief-hemant/chief-hemant/demo-site-hem
     backstage.io/techdocs-ref: dir:.
+    jenkins.io/job-full-name: chief-hemant/test_hubappswa
 spec:
   type: website
   lifecycle: experimental
